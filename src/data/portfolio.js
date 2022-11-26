@@ -2,13 +2,13 @@ export default [
    {
       title: 'Bananabank 🍌🏦',
       imgUrl: '/GoravK/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      stack: ['SQLITE','C#','Github Actions'],
+      link: 'https://github.com/rafdeguzman/jacappdev1-2022-lemonke-WPF',
    },
    {
       title: 'Cinemaware 🎥',
       imgUrl: '/GoravK/assets/cinemaware.png',
-      stack: ['Bootstrap', 'Sql', 'Node.js','Docker'],
+      stack: ['Bootstrap', 'Sql', 'Node.js','Docker', 'Express.js'],
       link: 'https://github.com/rafdeguzman/CinemaWareWebsite',
    },
    {
