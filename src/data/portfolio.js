@@ -15,6 +15,6 @@ export default [
       title: 'Dino D-evolution 🦖',
       imgUrl: '/GoravK/assets/dino.png',
       stack: ['Teachable Machine', 'p5.js', 'JavaScript', 'HTML', 'CSS'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      link: 'https://github.com/Gorav-K/3W5_Karwer_G',
    },
 ]
