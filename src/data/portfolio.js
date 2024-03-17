@@ -1,6 +1,6 @@
 export default [
    {
-      title: 'Bananabank 🍌🏦',
+      title: 'Bananabank 🍌 🏦',
       imgUrl: '/GoravK/assets/budget.png',
       stack: ['SQLITE','C#','Github Actions'],
       link: 'https://github.com/rafdeguzman/jacappdev1-2022-lemonke-WPF',
