@@ -76,6 +76,7 @@ function App() {
           <Portfolio />
           <Timeline />
           {/* <Contact /> */}
+		  
           <Footer />
         </div>
       </div>
